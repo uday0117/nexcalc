@@ -1,0 +1,14 @@
+# Example key.properties template
+# Copy this file to android/key.properties and fill in your actual values
+# DO NOT commit the actual key.properties file to version control!
+
+storePassword=YOUR_KEYSTORE_PASSWORD_HERE
+keyPassword=YOUR_KEY_PASSWORD_HERE
+keyAlias=nexcalc
+storeFile=/path/to/your/nexcalc-key.jks
+
+# Example (DO NOT USE THESE VALUES):
+# storePassword=MySecurePassword123
+# keyPassword=MySecurePassword123
+# keyAlias=nexcalc
+# storeFile=/Users/username/nexcalc-key.jks
