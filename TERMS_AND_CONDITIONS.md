@@ -100,7 +100,7 @@ If any provision of these Terms is held to be unenforceable or invalid, such pro
 
 If you have any questions about these Terms and Conditions, please contact us:
 
-- **Email:** support@uksolutions.com
+- **Email:** apps.uksolutions@gmail.com
 - **Developer:** UK Solutions
 - **Location:** Bangalore, Karnataka, India
 - **Organization Unit:** Development

@@ -42,7 +42,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 If you have any questions about this Privacy Policy, please contact us:
 
-- **Email:** support@uksolutions.com
+- **Email:** apps.uksolutions@gmail.com
 - **Organization:** UK Solutions
 - **Location:** Bangalore, Karnataka, India
 
